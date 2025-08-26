@@ -34,6 +34,7 @@ feeds:
   url: https://s2.dev/blog/feed.xml
   posts:
     - guid: https://s2.dev/blog/dst
+    - guid: https://s2.dev/blog/linearizability
 - name: PolarSignals
   url: https://www.polarsignals.com/rss.xml
   posts:
